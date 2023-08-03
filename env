@@ -30,3 +30,7 @@ SMTP_PASSWORD=password
 AWS_ACCESS_KEY_ID=<access key id Anda>
 AWS_SECRET_ACCESS_KEY=<secret access key Anda>
 AWS_BUCKET_NAME=dicodingnotesappbucket-dimas
+
+
+# Redis
+REDIS_SERVER=localhost
